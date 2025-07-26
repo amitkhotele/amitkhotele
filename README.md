@@ -3,7 +3,7 @@
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amitkhotele)  [![WakaTime](https://wakatime.com/badge/user/abc12345-1234-5678-9101-abcdef123456.svg)](https://wakatime.com/@amitkhotele)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=amitkhotele) 
 
 ---
 
