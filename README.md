@@ -38,6 +38,15 @@
 
 ---
 
+## 🔥 GitHub Contributions & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amitkhotele&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitkhotele&theme=github_dark" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
 - Follow me here on GitHub  
