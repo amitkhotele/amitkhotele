@@ -9,7 +9,7 @@
 - 🔭 Currently working on machine learning projects & data visualization dashboards  
 - 🌱 Learning advanced data analysis, Power BI, and deep learning  
 - 💬 Ask me about Python, Pandas, Matplotlib, and Data Cleaning techniques  
-- 📫 Reach me by opening an issue or connecting on [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📫 Reach me by opening an issue or connecting on [LinkedIn](https://www.linkedin.com/in/amitkhotele)  
 
 ---
 
